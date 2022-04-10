@@ -1,0 +1,8 @@
+Access is denied
+
+System.ComponentModel.Win32Exception
+   at System.Diagnostics.Process.Kill()
+   at MyClientPlugin.LockerWindow.ProcessGuard()
+   at System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()
